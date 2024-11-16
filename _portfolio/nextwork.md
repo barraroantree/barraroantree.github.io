@@ -1,5 +1,5 @@
 ---
-title: "Evaluation of NExTWORK"
+title: "Evaluation of an active labour market programme in Denmark (NExTWORK)"
 excerpt: "with Sonya Krutikova ([U of Manchester](https://sites.google.com/view/sonyakrutikova/home?authuser=0)) and Imran Tahir (IFS)"
 collection: portfolio
 ---
