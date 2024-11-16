@@ -2,10 +2,10 @@
 title: "Income inequality in Ireland: 1987–2019"
 collection: publications
 permalink: /publication/2024-06-28-FiscalStudies
-date: 2022-08-01
+date: 2024-06-28
 venue: 'Fiscal Studies'
 paperurl: 'https://doi.org/10.1111/1475-5890.12370'
-citation: 'Barra Roantree and Michelle Barrett, &quot;Income inequality in Ireland: 1987–2019.&quot; Fiscal Studies, 45(2), 143-153. 2022.'
+citation: 'Barra Roantree and Michelle Barrett, &quot;Income inequality in Ireland: 1987–2019.&quot; Fiscal Studies, 45(2), 143-153. 2024.'
 ---
 [Access paper here](https://doi.org/10.1111/1475-5890.12370){:target="_blank"}
 
