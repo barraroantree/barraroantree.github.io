@@ -8,5 +8,5 @@ collection: portfolio
 This paper provides evidence that finishing school when labour markets are weak leads to poor subsequent labour market prospects, particularly those leaving school at younger ages. Using administrative register data from Denmark, we find that these scarring effects are larger and more persistent for young adults from the lowest-income backgrounds.
 
 
-[IFS Working Paper W21/28](/files/IFSwp2128)
-[Non-technical summary](/files/IFSwp2128summary.pdf)
+[IFS Working Paper W21/28](/files/WPs/IFSwp2128)
+[Non-technical summary](/files/WPs/IFSwp2128summary.pdf)
