@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+You can [download my full CV here](/files/roantreeCV.pdf) with an abridged version available below.
+
+
 {% include base_path %}
 
 ## Education
@@ -18,7 +21,6 @@ redirect_from:
 ## Employment
 * Trinity College Dublin
   - Assistant Professor in Economics (2023-present)
-
 
 * Economic and Social Research Institute, Dublin
   - Research Affiliate (2023-present)
@@ -33,10 +35,15 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ol>
   
+## Working papers and work-in-progress
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
+
   
-## Teaching
+<!-- ## Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 
