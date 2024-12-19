@@ -36,9 +36,9 @@ You can [download my full CV here](/files/roantreeCV.pdf) with an abridged versi
   {% endfor %}</ol>
   
 ## Working papers and work-in-progress
-{% for post in site.portfolio %}
+<ol>{% for post in site.portfolio %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}</ol>
 
   
 <!-- ## Teaching
