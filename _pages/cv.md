@@ -31,10 +31,10 @@ You can [download my full CV here](/files/roantreeCV.pdf) with an abridged versi
 * BA in Economics, Trinity College Dublin, 2011
 
 ## Publications
-(See here)[https://barraroantree.github.io/publications/]
+[See here](https://barraroantree.github.io/publications/)
 
 ## Working Papers and work-in-progress
-(See here)[https://barraroantree.github.io/portfolio/]
+[See here](https://barraroantree.github.io/portfolio/)
 
 ## Professional and Public Service
 * Founder and co-chair of the Irish Public Economics Network. 2024-present.
