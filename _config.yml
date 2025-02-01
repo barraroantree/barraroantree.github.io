@@ -219,6 +219,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  reports:
+    output: true
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -279,6 +282,16 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _reports
+  - scope:
+      path: ""
+      type: reports
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
 
 
 # Sass/SCSS
