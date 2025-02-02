@@ -12,5 +12,5 @@ collection: report
 * The distributional effects of inflation and prospects for income growth, March 2022 (with Karina Doorley and Mark Regan) [Available here](https://www.esri.ie/system/files/publications/QEC2022SPR_0.pdf#page=64)
 * Poverty, income inequality and living standards in Ireland: 1st annual report, May 2021 (with Bertrand Maître, Alyvia McTague, Ivan Privalko). [Chapter on intergenerational inequality] [Available here](https://doi.org/10.26504/bkmnext412)
 <!-- Inequality and poverty in Ireland, July 2020. Presentation to Department of Employment Affairs and Social Protection pre-Budget Forum [Available here][] -->
-* Income adequacy in retirement: Evidence from the Irish longitudinal study on ageing (TILDA), July 2020 (with Keelan Beirne and Anne Nolan) [Available here][]
+* Income adequacy in retirement: Evidence from the Irish longitudinal study on ageing (TILDA), July 2020 (with Keelan Beirne and Anne Nolan) [Available here](https://doi.org/10.26504/rs107)
 

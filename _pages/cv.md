@@ -36,14 +36,18 @@ You can [download my full CV here](/files/roantreeCV.pdf) with an abridged versi
 ## Working Papers and work-in-progress
 [See here](https://barraroantree.github.io/portfolio/)
 
+## Policy Reports 
+[See here](https://barraroantree.github.io/reports/)
+
 ## Professional and Public Service
 * Founder and co-chair of the Irish Public Economics Network. 2024-present.
 * Steering Committee member, The Irish Longitudinal Study of Ageing. 2024-present.
 * Member of DFHERIS Evidence Programme for Student Support. 2024-present.
 * Member of Foundation for Fiscal Studies projects committee. 2023-present.
+* Member of the [Dublin Economics Workshop](https://www.dublineconomics.com) Organising Committee. 2019-2024.
 * Member of Department of Transport National Demand Management Strategy Fiscal Measures steering group. 2023-2024.
 * Executive Committee Member of Irish Society for Women in Economics. 2022-2023.
-* External examiner, NUI Maynooth. 2022.
+* External examiner for PhD viva, NUI Maynooth. 2022.
 * Member of Irish Commission on Taxation and Welfare. 2021-22.
 
 <!-- ## Publications

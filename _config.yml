@@ -25,8 +25,8 @@ author:
   name             : "Barra Roantree"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Economics and Programme Director of the MSc in Economic Policy"
-  employer         : "Trinity College Dublin"
-  location         : "Dublin, Ireland"
+  employer         : "Trinity College Dublin, Ireland"
+  # location         : "Dublin, Ireland"
   uri              : https://howtotaxandspendit.substack.com # URL
   email            : "barra.roantree@tcd.ie" 
 
