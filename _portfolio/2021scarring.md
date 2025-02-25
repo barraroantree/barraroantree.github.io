@@ -1,6 +1,6 @@
 ---
 title: "Born under a bad sign: the impact of finishing school when labour markets are weak"
-excerpt: "with Mark Regan (Parliamentary Budget Office)."
+excerpt: "with Mark Regan (Parliamentary Budget Office). Under reivew."
 collection: portfolio
 ---
 

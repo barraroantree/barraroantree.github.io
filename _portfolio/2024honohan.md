@@ -1,6 +1,6 @@
 ---
 title: "Fiscal policy and redistribution in Ireland"
-excerpt: "Under review at the Economic and Social Review."
+excerpt: "Under review."
 collection: portfolio
 ---
 
