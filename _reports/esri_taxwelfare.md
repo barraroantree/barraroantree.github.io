@@ -15,4 +15,4 @@ collection: report
 * Carbon taxes and compensation options, June 2019 (with Maxime Bercholz). [ESRI Budget Perspectives 2020 paper](https://doi.org/10.26504/bp202001) ~ [Slides](https://www.esri.ie/sites/default/files/media/file-uploads/2019-06/Carbon%20taxes%20and%20compensation%20options.pdf).
 * Housing Assistance Payment: Potential impacts on financial incentives to work, January 2019. (with Mark Regan, Tim Callan, Michael Savage, John R. Walsh). [ESRI Working Paper 610.](https://www.esri.ie/publications/housing-assistance-payment-potential-impacts-on-financial-incentives-to-work)
 * Budget 2019: tax and welfare changes, December 2018. (with Maxime Bercholz, Karina Doorley, Claire Keane & Mark Regan) [ESRI QEC Special Article](https://doi.org/10.26504/qec2018win_sa_roantree) 
-
+* Financial Incentives to Work, Comparing Ireland and the UK, June 2016 (with Tim Callan, Cormac O'Dea and Michael Savage) [Available here](https://www.esri.ie/system/files/publications/BP201702.pdf)
