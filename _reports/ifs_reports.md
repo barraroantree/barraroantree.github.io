@@ -3,7 +3,8 @@ title: "IFS Reports"
 excerpt: "Selected reports and observations I've co-authored published by the IFS."
 collection: report
 ---
-
+* Short-run evaluation of NExTWORK, September 20205 (with Sonya Krutikova and Imran Tahir) [Available here](https://www.tara.tcd.ie/handle/2262/112279) [Launch presentation](https://en.rockwoolfonden.dk/publications/conference-nextwork-presentation-of-results/)
+* Inequality in Ireland: 1987-2019, November 2023 (with Michelle Barrett) [Available here](http://hdl.handle.net/2262/107293) [Project website](https://ifs.org.uk/inequality/country-studies/)
 * The characteristics and incomes of the top 1% in the UK, August 2019 (with Robert Joyce and Thomas Pope). IFS BN 254 [Available here](https://doi.org/10.1920/BN.IFS.2019.BN0253)
 * The rise and rise of women’s employment in the UK, April 2018 (with Kartik Vira)  [Available here](https://doi.org/10.1920/BN.IFS.2019.BN0234)
 * Who benefits from benefits?, March 2018 (with Robert Joyce) [Available here](https://doi.org/10.1920/co.ifs.2024.0293)

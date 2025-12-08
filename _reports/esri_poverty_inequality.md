@@ -4,6 +4,7 @@ excerpt: "Reports I've co-authored published by the ESRI on the topics of povert
 collection: report
 ---
 
+* Poverty, income inequality and living standards in Ireland: 5th annual report, September 2025 (with Bertrand Maître, Helen Russell, Anousheh Alamir, Míde Griffin and Tara Mitchell). [Available here](https://doi.org/10.26504/jr14)
 * Poverty, income inequality and living standards in Ireland: 4th annual report, September 2024 (with Bertrand Maître and Helen Russell). [Available here](https://doi.org/10.26504/jr7)
 * Poverty, income inequality and living standards in Ireland: 3rd annual report, September 2023 (with Karina Doorley). [Available here](https://doi.org/10.26504/jr4)
 * Poverty, income inequality and living standards in Ireland: 2nd annual report: October 2022 (with Michelle Barrett and Paul Redmond) [Available here](https://doi.org/10.26504/jr1)
