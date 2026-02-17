@@ -1,6 +1,6 @@
 ---
 title: "Equivalisation (once again)"
-excerpt: "with Karina Doorley, Luke Duggan and Theano Kakoulidou. Under review."
+excerpt: "with Karina Doorley, Luke Duggan and Theano Kakoulidou [Under review]"
 collection: portfolio
 ---
 
