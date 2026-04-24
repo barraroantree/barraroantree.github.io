@@ -15,7 +15,7 @@ collection: report
 - Despite making up just a quarter of the inner-city population, almost half of those living in a part of the inner city classified as Extremely or Very Disadvantaged by the official Pobal Deprivation Index live in the SWIC. 
 - This has important economic consequences, with the cost of additional spending on public services that arise from poverty and deprivation estimated at between €26 and €60 million per year in the SWIC alone.
 
-![figure](/files/reports/SWIC/pobal_HPI22_swic.png){width=250px}
+![figure](/files/reports/SWIC/pobal_HPI22_swic.png)
 
 
 ## Average incomes in the SWIC are substantially lower than Dublin as a whole.
@@ -32,7 +32,7 @@ collection: report
 - Third level progression rates for students in these schools are less the half the national average. Just 36% of students who sat the Leaving Certificate at schools in the SWIC went on to third level in 2024. This progression rate is less than half of that in Dublin (81%) or nationally (80%).
 - Raising progression rates to the national average would result in more than €3 million in extra lifetime earnings and €1.8 million in extra tax revenues for the 2024 cohort of leaving certificate students alone. This amounts to around €100,000 in extra lifetime earnings (net of tax) and €62,000 in extra tax revenues for the Exchequer for each additional student who goes onto third-level education. 
 
-![figure](/files/reports/SWIC/dublin_HEI_prograte.png){width=250px}
+![figure](/files/reports/SWIC/dublin_HEI_prograte.png)
 
 ## Crime
 - The crime rate in the SWIC is more than twice the national average. The SWIC largely overlaps with the Kevin Street An Garda Síochána (AGS) District which recorded 106.7 crimes per 1,000 of population in 2024. This was more than twice the national average of 40.4 per 1,000.
@@ -44,5 +44,5 @@ collection: report
 - One-in-five primary school students and one-in-four secondary school students in the SWIC report never participating in organised sport outside of school: more than 60% above the national average. Half of primary school students who do not participate say it is because there are not adequate facilities in the SWIC.
 - There are currently no public pitches within the Grand Canal and North Circular Road, with just 2 of Dublin City Council's 248 public pitches in the SWIC. Both of these pitches are located in East Timor Park at the south-west edge of the SWIC, inaccessible for the vast majority of those living in the SWIC. This corresponds to 22,427 people per playing pitch in the SWIC: almost 10 times higher than the average of 2,389 for Dublin City as a whole. While two new pitches are planned for the area, these will still leave the SWIC with just 1 pitch per 11,214 people.
 
-![figure](/files/reports/SWIC/dcc_pitches.png){width=250px}
+![figure](/files/reports/SWIC/dcc_pitches.png)
 
