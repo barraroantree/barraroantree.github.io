@@ -4,6 +4,10 @@ excerpt: "Other reports & presentations"
 collection: report
 ---
 
+# Higher education access
+* SES gradients in higher education completion, presentation to DFHERIS conference, June 2026 [Available here](/files/presentations/2026_roantree_slides_dfheris.pdf)
+
+
 # Reports on COVID-19 pandemic 
 * Differences in risk of severe outcomes from COVID-19 across occupations in Ireland, July 2020 (with Brendan Walsh and Paul Redmond) [Available here](https://doi.org/10.26504/sustat93)
 <!-- * The pandemic, job losses and young adults, July 2020. Presentation to IIEA YPN event -->
